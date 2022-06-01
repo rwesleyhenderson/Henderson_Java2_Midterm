@@ -1,0 +1,7 @@
+Sunday,100,50
+Monday,90,45
+Tuesday,80,40
+Wednesday,70,35
+Thursday,60,30
+Friday,50,25
+Saturday,40,20
